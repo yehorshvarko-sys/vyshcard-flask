@@ -2,3 +2,4 @@ flask
 flask-cors
 sqlalchemy
 passlib[bcrypt]
+gunicorn
